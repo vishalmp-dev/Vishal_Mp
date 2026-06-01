@@ -66,7 +66,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
-**Git • GitHub • Postman**
+**Git • GitHub • Postman  • Vscode**
 
 ---
 
