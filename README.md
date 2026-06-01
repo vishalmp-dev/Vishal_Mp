@@ -12,7 +12,7 @@
   <a href="https://vishal-mp-portfolio.vercel.app" target="_blank">Portfolio</a> •
   <a href="https://linkedin.com/in/vishal-mp-4b626a228" target="_blank">LinkedIn</a> •
   <a href="https://github.com/vishalmp-dev" target="_blank">GitHub</a> •
-  <a href="https://x.com/YOUR_HANDLE" target="_blank">X</a>
+  <a href="https://x.com/VishalMp_" target="_blank">X</a>
 </p>
 
 ---
