@@ -1,5 +1,3 @@
-# Vishal_Mp
-
 <p align="center">
   <img src="https://i.imgur.com/your-banner.png" alt="Vishal MP Banner" width="100%" />
 </p>
@@ -20,8 +18,9 @@
 
 * Building full stack web applications
 * Exploring AI-powered products and workflows
-* Working on startup projects at MogArena
-* Learning by building and shipping projects
+* Learning about SaaS and product development
+* Exploring freelancing opportunities
+* Contributing to startup projects at MogArena
 
 ---
 
@@ -61,39 +60,19 @@ OpenAI • Gemini • Claude Code • Cursor
 
 ---
 
-## Featured Projects
-
-### ScanIt
-
-AI-powered ingredient analysis application that helps users understand food products using image recognition and AI.
-
-### JustChat
-
-Real-time video conferencing application built with WebRTC, chat, authentication, and responsive UI.
-
-### AI Job Application Tracker
-
-A job tracking platform designed to organize applications and simplify the job search process.
-
-### GoVibe
-
-Airbnb-inspired full stack web application with authentication, listings, reviews, and image uploads.
-
----
-
 ## Experience
 
 **Product & Growth Operator — MogArena**
 
-Contributing across product development, growth initiatives, community management, creator outreach, and platform operations.
+Contributing across product development, growth initiatives, creator outreach, community management, and platform operations.
 
 **Frontend Developer Intern — CodeAlpha**
 
-Built responsive web interfaces using HTML, CSS, and JavaScript while gaining hands-on frontend experience.
+Built responsive web interfaces and gained hands-on experience in frontend development.
 
 **Technical Event Head — BitByteGo VCET**
 
-Leading technical events, coding initiatives, and workshops for the student developer community.
+Leading technical events, workshops, and coding initiatives for the student developer community.
 
 ---
 
@@ -114,6 +93,8 @@ Expected Graduation: **2027**
 🌐 Portfolio: https://vishal-mp-portfolio.vercel.app
 
 💼 LinkedIn: https://linkedin.com/in/vishal-mp-4b626a228
+
+𝕏 X / Twitter: https://x.com/YOUR_HANDLE
 
 📧 Email: [vishalmp577@gmail.com](mailto:vishalmp577@gmail.com)
 
