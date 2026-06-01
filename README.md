@@ -19,9 +19,8 @@
 
 ## Currently
 
-* Building full stack web applications
+* Building full stack web & Saas Apps
 * Exploring AI-powered products and workflows
-* Learning about SaaS and product development
 * Exploring freelancing opportunities
 * Contributing to startup projects at MogArena
 
