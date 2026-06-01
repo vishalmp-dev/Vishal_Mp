@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://vishal-mp-portfolio.vercel.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/vishal-mp-4b626a228">LinkedIn</a> •
-  <a href="https://github.com/vishalmp-dev">GitHub</a> •
-  <a href="https://x.com/YOUR_HANDLE">X</a>
+  <a href="https://vishal-mp-portfolio.vercel.app" target="_blank">Portfolio</a> •
+  <a href="https://linkedin.com/in/vishal-mp-4b626a228" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/vishalmp-dev" target="_blank">GitHub</a> •
+  <a href="https://x.com/YOUR_HANDLE" target="_blank">X</a>
 </p>
 
 ---
@@ -105,13 +105,12 @@ Expected Graduation: **2027**
 
 ## Connect
 
-📧 Email: [vishalmp577@gmail.com](mailto:vishalmp577@gmail.com)
-
-💼 LinkedIn: https://linkedin.com/in/vishal-mp-4b626a228
-
-🌐 Portfolio: https://vishal-mp-portfolio.vercel.app
-
-🐦 X: https://x.com/YOUR_HANDLE
+<p>
+📧 Email: <a href="mailto:vishalmp577@gmail.com">vishalmp577@gmail.com</a><br>
+💼 LinkedIn: <a href="https://linkedin.com/in/vishal-mp-4b626a228" target="_blank">LinkedIn</a><br>
+🌐 Portfolio: <a href="https://vishal-mp-portfolio.vercel.app" target="_blank">Portfolio</a><br>
+🐦 X: <a href="https://x.com/VishalMp_" target="_blank">X Profile</a>
+</p>
 
 ---
 
